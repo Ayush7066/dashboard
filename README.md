@@ -37,7 +37,7 @@ A responsive and modern Admin Dashboard built with **React.js**, **Tailwind CSS*
 ![Kanban Board](assets/kanban-board.png)
 
 #### 🗓️ Calendar View  
-![Calendar](assets/calendars-view.png)
+![Calendar](assets/calendar-view.png)
 
 
 
